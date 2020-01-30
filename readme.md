@@ -123,3 +123,6 @@ session_destroy();
 header('Location: index.php');
 ?>
 ```
+
+## Suite
+Il nous restera ensuite à chiffrer les mots de passe.
